@@ -2,39 +2,50 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+Fun 20 Question Quiz (Must get at least a 80%)
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+My project will be give the user a get the user to take a quiz and force then to retake if they dont get at least an 80%
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
-
-## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
-
-TODO, if applicable
-
-## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
-
-TODO, if applicable
+My final project is a quiz type game. The purpose of this program is to create an game where users can test their knowledge on multiple choice and written response that will test a whole bunch of different topics. 
+When the program start It will display a welcome message and then start asking questions. The user will type out their answer the program will keep track of if its correct or not. 
+Additionally if you get a below a certain score you will have to take it again to pass.
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-TODO
+Program runs without any errors
+Will asks at least 10 multiple-choice questions
+Will accept and check users answers
+Will keep track of the score
+Will displays the final result to the user
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-TODO
+Includes 20 multiple-choice questions
+Tracks and displays score and percentage
+Gives feedback after each question (correct/incorrect)
+Provides a final performance message based on score
+Allow the user to replay the quiz
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+Includes 20+ multiple-choice questions
+Organizes questions in a random order
+Tracks score and calculates percentage
+Displays a detailed final result message
+Allows the user to replay the quiz
+Uses functions to organize the code
+Uses loops to run the game smoothly
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+My next steps for this project are to build a basic version of this quiz game and begin to developed the the basic outline. 
+After this I'm going to create all of the question that i will ask and make a program that will calculate the the question with some being weighted more then others.
+To complete this project I will ne to strengthen my knowledge's the simple concepts. Might also need to learn how to make a list of all of the questions. 
+Since I'm working by myself ill need to organize my time and meet all the requirements on my own.
 
