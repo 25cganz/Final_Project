@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st # Our project is done with streamlit
 import pandas as pd
 import random
 import time
