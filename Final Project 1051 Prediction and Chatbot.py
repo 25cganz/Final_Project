@@ -10,7 +10,6 @@ st.set_page_config(
 )
 
 # Data Done
-@st.cache_data
 def load_data():
         return pd.read_csv("ucl_stats.csv")
 data = load_data()
